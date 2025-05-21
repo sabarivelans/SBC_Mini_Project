@@ -14,3 +14,5 @@ Instead of deploying a cloud backend for prototyping, the system uses a **local 
 - **HTML/CSS** (Web interface)
 - **MFRC522 RFID module**
 - **Raspberry Pi 4**
+
+![image](https://github.com/user-attachments/assets/3a9b2b90-7e3f-4cbe-842b-3b035a9ced46)
